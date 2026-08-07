@@ -1,63 +1,100 @@
-# Aayush Ate
-# ✨ About Me:
+
+
+```
+Aayush@Ate
+-------------
+OS:        macOS / Fedora / Ubuntu
+WM:        AeroSpace (macOS) · Hyprland (Linux)
+Bar:       SketchyBar (macOS) / Waybar (Linux)
+Terminal:  Ghostty
+Shell:     zsh (oh-my-zsh + oh-my-posh)
+Editor:    Neovim (LazyVim) / Zed / Cursor / VS Code / Trae / Windsurf
+Theme:     Tokyo Night
+College:   BMS College of Engineering, VTU
+Course:    B.E. CSE
+Status:    debugging dotfiles instead of studying for numerical methods
+```
+
+---
+
+### ✨ About Me:
 
 **Aayush Ate** from India Bengaluru, curious about how tech works under the hood. I've built a strong foundation in **Python**, **Java**, **C**, and **Rust** (still learning, but with solid logic), plus frontend work with **HTML**, **HTMX**, **CSS**, **Tailwind**, and **JS**. Deep Python experience in AI/ML using **Ollama**, **LM Studio**, and **Jupyter Notebooks** for fine-tuning/training models, plus **Manim** for mathematical animations and visualizations. Aspiring **fullstack developer** (70% backend, 30% frontend focus)—my profile looks basic because I'm constantly learning new skills daily and haven't updated it yet! 🙂😀
 
-## 🌐 Socials:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aayush%20Ate) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aayushate@gmail.com) || aayushate@yahoo.com
+###  Socials
 
-## 💻 Tech Stack:
+[![Website](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aayushate.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-ate)
+[![Email](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:aayushate@yahoo.com)
+&nbsp;
+you can contact me direct through this social contact only
 
-![c](https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white)
-![rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white)
-![lua](https://img.shields.io/badge/lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![latex](https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white)
-![java](https://img.shields.io/badge/java-F58219?style=flat&logo=openjdk&logoColor=white)
-![vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
-![blender](https://img.shields.io/badge/blender-F5792A?style=flat&logo=blender&logoColor=white)
+---
 
-![affinityphoto](https://img.shields.io/badge/affinityphoto-7B2FF7?style=flat)
-![affinity desginer](https://img.shields.io/badge/affinity%20desginer-1B72BE?style=flat)
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-![java](https://img.shields.io/badge/java-F58219?style=flat&logo=openjdk&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![c++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![apache](https://img.shields.io/badge/apache-D22128?style=flat&logo=apache&logoColor=white)
+###  Tech Stack
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![pihole](https://img.shields.io/badge/pihole-96060C?style=flat&logo=pi-hole&logoColor=white)
-![web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
-![react](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
-![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![bash script](https://img.shields.io/badge/bash%20script-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat)
-![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+**Languages**
 
-![OBJECTIVE-C](https://img.shields.io/badge/OBJECTIVE--C-3993D0?style=flat&logo=apple&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![grafana](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
-![pihole](https://img.shields.io/badge/pihole-96060C?style=flat&logo=pi-hole&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+**AI / ML / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pihole&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
+
+**Design & Docs**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+---
+
+###  Projects
+
+- **[portfolio](https://aayushate.is-a.dev)** — personal site, Next.js on Vercel, notes section renders Obsidian `.mdx` exports. [source](https://github.com/Aayush-Ate/AayushAte)
+- **dotfiles** — full Tokyo Night setup across macOS and Linux: AeroSpace/Hyprland + SketchyBar + Ghostty + LazyVim.
+there are still more which I will share. based on my project and my portfolio site given here
+---

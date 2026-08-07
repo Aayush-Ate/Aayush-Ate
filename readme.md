@@ -96,5 +96,5 @@ you can contact me direct through this social contact only
 
 - **[portfolio](https://aayushate.is-a.dev)** — personal site, Next.js on Vercel, notes section renders Obsidian `.mdx` exports. [source](https://github.com/Aayush-Ate/AayushAte)
 - **dotfiles** — full Tokyo Night setup across macOS and Linux: AeroSpace/Hyprland + SketchyBar + Ghostty + LazyVim.
-there are still more which I will share. based on my project and my portfolio site given here
+there are still more which I will share, based on my project and my portfolio site given here
 ---

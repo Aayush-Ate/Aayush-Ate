@@ -26,7 +26,7 @@ Status:    debugging dotfiles instead of studying for numerical methods
 ###  Socials
 
 [![Website](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aayushate.is-a.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-ate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-ate-8a6237255/e)
 [![Email](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:aayushate@yahoo.com)
 &nbsp;
 you can contact me direct through this social contact only

@@ -107,7 +107,5 @@ you can contact me direct through this social contact only or subscribe to my we
 there are still more which I will share, based on my project and my portfolio site given here
 ---
 
-### 📈 Contribution Graph
 
-[![Aayush's Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Aayush-Ate&theme=tokyo-night&bg_color=1a1b26&hide_border=true&area=true)](https://github.com/Aayush-Ate)
 

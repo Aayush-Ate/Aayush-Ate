@@ -106,3 +106,5 @@ you can contact me direct through this social contact only or subscribe to my we
 - **dotfiles** — full Tokyo Night setup across macOS and Linux: AeroSpace/Hyprland + SketchyBar + Ghostty + LazyVim.
 there are still more which I will share, based on my project and my portfolio site given here
 ---
+
+[![Aayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayush-Ate&theme=tokyo-night)](https://github.com/ashutosh00712/github-readme-activity-graph)

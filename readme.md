@@ -109,5 +109,5 @@ there are still more which I will share, based on my project and my portfolio si
 
 ### 📈 Contribution Graph
 
-[![Aayush's Contribution Graph](https://ghchart.rshah.org/7aa2f7/Aayush-Ate)](https://github.com/Aayush-Ate)
+[![Aayush's Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Aayush-Ate&theme=tokyo-night&bg_color=1a1b26&hide_border=true&area=true)](https://github.com/Aayush-Ate)
 

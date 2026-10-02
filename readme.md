@@ -107,3 +107,14 @@ you can contact me direct through this social contact only or subscribe to my we
 there are still more which I will share, based on my project and my portfolio site given here
 ---
 
+### 📊 Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-Ate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aayush's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Ate&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+### 📈 Contribution Graph
+
+[![Aayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayush-Ate&theme=tokyo-night&bg_color=1a1b26&hide_border=true)](https://github.com/Aayush-Ate)
+
